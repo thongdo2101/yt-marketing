@@ -1,1 +1,1 @@
-<?php header( './index.htm' ) ;  ?>
+<?php include('./index.htm')  ?>
